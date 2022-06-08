@@ -1,0 +1,30 @@
+{
+  "countries": [
+    {
+      "name": "india"
+    },
+    {
+      "name": "china"
+    }
+  ],
+  "cities": [
+    {
+      "city": "bhatkal",
+      "country": "india",
+      "population": "10000000",
+      "id": 1
+    },
+    {
+      "city": "DEHLI",
+      "country": "india",
+      "population": "70000000",
+      "id": 2
+    },
+    {
+      "city": "Colombo",
+      "country": "SriLanka",
+      "population": "5,600,000",
+      "id": 3
+    }
+  ]
+}
